@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp7.Masajista">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAEAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Masajista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.Futbolista">
+    <Position X="8.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgAAAAAAAAAAAAAIAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Futbolista.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.Entrenador">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Entrenador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp7.SeleccionFutbol">
+    <Position X="5.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAEAAAAgAAAAAAAAgAAAAAAAAAEAgQ=</HashCode>
+      <FileName>SeleccionFutbol.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
